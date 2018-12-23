@@ -1,0 +1,1 @@
+/home/ana/Documents/S7/Programmation systeme/tubes/tubeAnonyme.c

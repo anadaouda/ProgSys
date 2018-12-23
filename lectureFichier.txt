@@ -1,0 +1,14 @@
+What does Lorem Ipsum mean?
+
+Derived from Latin dolorem ipsum (“pain itself”), Lorem Ipsum is filler text used by publishers and graphic designers used to demonstrate graphic elements.
+
+Let's say you're drafting the ultimate content marketing strategy. Lorem Ipsum is placeholder text that stands in for meaningful content. It allows designers to focus on getting the graphical elements such as typography, font, and page layout in place first, before you move forward with the rest of your strategy. Before publication, you replace the Lorem Ipsum text with your polished, high quality content.
+
+Typically, Lorem Ipsum text consists of a jumbled section of De finibus bonorum et malorum, a first century, philosophical text written by Cicero. Words are added, modified, or removed to make it nonsensical.
+
+One of the main benefits of using Lorem Ipsum is that it can be easily generated, and it takes the pressure off designers to create meaningful text. Instead, they can focus on crafting the best website possible, and add in content after a page has been designed.
+
+Since the 1500’s, when a printer jumbled a gallery of type to create a type specimen book, Lorem Ipsum has been the industry standard for dummy text.
+
+Today, a variety of software can create random text that resembles Lorem Ipsum. For example, Apple’s Pages and Keynote software use scrambled placeholder text. And Lorem Ipsum is featured on Google Docs, WordPress, and Microsoft Office Word.
+

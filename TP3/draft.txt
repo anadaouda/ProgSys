@@ -1,0 +1,15 @@
+1- Semaphores et verrous
+init() : Initialise la boite avec n jeton
+P() : Prise du jeton
+    Si il en reste il peut continuer
+    Si il peut plus bah il est bloqué
+V() : Remise de jeton (non-bloquant)
+
+Quand une personne a un verrou tout ceux qui veulent acceder sont bloqués
+initVerrou() : Initialisation d'une variable de condition et de un verrou ?
+                Une sur le nombre de jetons dans la boite
+                Quelqu'un a un verrou mais ne le rend jamais
+PVerrou() : Variable de condition sur le nombre de jetons
+            Si elle est a zero il faut appeler lock -> on est bloqué
+            Si il y en a plus faut rien faire
+VVerrou() : Dans tout les cas je le remet donc cond ++
